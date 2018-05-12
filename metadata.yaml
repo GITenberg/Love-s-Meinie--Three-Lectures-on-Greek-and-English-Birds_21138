@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: The robin.--The swallow.--The dabchicks.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21138#Love-s-Meinie--Three-Lectures-on-Greek-and-English-Birds
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Biology
