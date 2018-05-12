@@ -1,0 +1,36 @@
+_repo: Love-s-Meinie--Three-Lectures-on-Greek-and-English-Birds_21138
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: The robin.--The swallow.--The dabchicks.
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Biology
+gutenberg_issued: '2007-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Water birds'
+- !lcsh 'Swallows'
+- !lcsh 'Birds in art'
+- !lcsh 'Robins'
+- !lcc 'QL'
+tableOfContents: The robin -- The swallow -- The dabchicks.
+title: 'Love''s Meinie: Three Lectures on Greek and English Birds'
+url: http://www.gutenberg.org/ebooks/21138
